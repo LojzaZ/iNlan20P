@@ -1,0 +1,1055 @@
+reaction_id	reaction_name	lower_bound	upper_bound
+SULR	Sulfite reductase (NADPH2)	0.0	1000.0
+LEUTAi	Leucine transaminase (irreversible)	0.0	1000.0
+TRPS3	Tryptophan synthase (indoleglycerol phosphate)	0.0	1000.0
+PPND	Prephenate dehydrogenase	0.0	1000.0
+ADSK	Adenylyl-sulfate kinase	0.0	1000.0
+SLFAT	Sulfate adenylyltransferase  ADP	-1000.0	1000.0
+AHCYSNS	S-adenosylhomocysteine nucleosidase	0.0	1000.0
+CYSTL	Cystathionine b-lyase	0.0	1000.0
+DHPTDCs2	4,5-dihydroxy-2,3-pentanedione cyclization (spontaneous)	0.0	1000.0
+HCYSMT	Homocysteine S-methyltransferase	0.0	1000.0
+HCYSMT2	Homocysteine Methyltransferase	0.0	1000.0
+HSST	Homoserine O-succinyltransferase	0.0	1000.0
+METAT	Methionine adenosyltransferase	0.0	1000.0
+METOX1s	Methionine oxidation (spontaneous)	0.0	1000.0
+METOX2s	Methionine oxidation 2 (spontaneous)	0.0	1000.0
+METS	Methionine synthase	0.0	1000.0
+MTHTHFSs	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran synthesis (spontaneous)	0.0	1000.0
+RHCCE	S-ribosylhomocysteine cleavage enzyme	0.0	1000.0
+SHSL1	O-succinylhomoserine lyase (L-cysteine)	0.0	1000.0
+BG_CELLB	Beta glucosidase  cellobiose	0.0	1000.0
+ALCD19y	Alcohol dehydrogenase  glycerol  NADP	0.0	1000.0
+DHAK	Dihydroxyacetone kinase	0.0	1000.0
+G3PD1ir	Glycerol 3 phosphate dehydrogenase  NAD	0.0	1000.0
+G3PT	Glycerol-3-phosphatase	0.0	1000.0
+GLYCDy	Glycerol dehydrogenase  NADP dependent	0.0	1000.0
+GLYK	Glycerol kinase	0.0	1000.0
+GPDDA1	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	0.0	1000.0
+3DSPHR	3 Dehydrosphinganine reductase	0.0	1000.0
+CERS124	Ceramide 1 synthase  24C	0.0	1000.0
+CERS126	Ceramide 1 synthase  26C	0.0	1000.0
+CERS224	Ceramide 2 synthase  24C	0.0	1000.0
+CERS226	Ceramide 2 synthase  26C	0.0	1000.0
+MEVK1	Mevalonate kinase  atp	0.0	1000.0
+MEVK2	Mevalonate kinase  ctp	0.0	1000.0
+MEVK3	Mevalonate kinase  gtp	0.0	1000.0
+MEVK4	Mevalonate kinase  utp	0.0	1000.0
+PMEVK	Phosphomevalonate kinase	0.0	1000.0
+PSPHPL	Phytosphingosine phosphate lyase	0.0	1000.0
+SBPP1	Sphinganine 1-phosphate phosphatase	0.0	1000.0
+SBPP2	SBPP2	0.0	1000.0
+SERPT	Serine C palmitoyltransferase	0.0	1000.0
+SLCBK1	Sphingolipid long chain base kinase  sphinganine	0.0	1000.0
+SLCBK2	Sphingolipid long chain base kinase  phytosphingosine	0.0	1000.0
+SPHPL	Sphinganine phosphate lyase	0.0	1000.0
+DMATT	Dimethylallyltranstransferase	0.0	1000.0
+DPMVD	Diphosphomevalonate decarboxylase	0.0	1000.0
+ERGSTGLCT	UDP glucoseergosterol glucosyltransferase	0.0	1000.0
+FRTT	Farnesyltranstransferase	0.0	1000.0
+GRTT	Geranyltranstransferase	0.0	1000.0
+HMGCOAR	Hydroxymethylglutaryl CoA reductase	-1000.0	0.0
+HMGCOAS	Hydroxymethylglutaryl CoA synthase	0.0	1000.0
+IPDDI	Isopentenyl-diphosphate D-isomerase	-1000.0	1000.0
+CHLPCTD	Choline phosphate cytididyltransferase	0.0	1000.0
+CHOLK	Choline kinase	0.0	1000.0
+ETHAK	Ethanolamine kinase	0.0	1000.0
+MI13456PK	Inositol-1,3,4,5,6-pentakisphosphate 2-kinase	0.0	1000.0
+MI1456PK	Inositol-polyphosphate multikinase	0.0	1000.0
+MI145PK	Inositol-1,4,5-trisphosphate 3-kinase	0.0	1000.0
+MI1PP	Myo-inositol 1-phosphatase	0.0	1000.0
+MI1PS	Myo Inositol 1 phosphate synthase	0.0	1000.0
+PETHCT	Phosphoethanolamine cytidyltransferase	0.0	1000.0
+PMI12346PH	5 diphosphoinositol 1 2 3 4 6 pentakisphosphate diphosphohydrolase	0.0	1000.0
+PMI12346PS	5 diphosphoinositol 1 2 3 4 6 pentakisphosphate synthase	0.0	1000.0
+PMI1346PH	Diphosphoinositol 1 3 4 6 tetrakisphosphate diphosphohydrolase	0.0	1000.0
+PMI1346PS	Diphosphoinositol 1 3 4 6 tetrakisphosphate synthase	0.0	1000.0
+3MOPt	3mop reversible trasport	0.0	1000.0
+ACt2r	Acetate reversible transport via proton symport	-1000.0	0.0
+ADEt2	Adenine transport in via proton symport	0.0	1000.0
+ADNt2	Adenosine transport in via proton symport	0.0	1000.0
+AKGMAL	Alpha ketoglutaratemalate transporter	0.0	1000.0
+AKGt2r	2 oxoglutarate reversible transport via symport	0.0	1000.0
+AMETt2	S adenosyl L methionine transport in via proton symport	0.0	1000.0
+ARGt2r	L arganine reversible transport via proton symport	0.0	1000.0
+ASNt2r	L asparagine reversible transport via proton symport	0.0	1000.0
+ASPt2r	L aspartate reversible transport via proton symport	0.0	1000.0
+BTNt2i	Biotin uptake	0.0	1000.0
+CHLt2	Choline transport via proton symport	0.0	1000.0
+CITt2r	Citrate reversible transport via symport	0.0	1000.0
+CO2t	CO2 transporter via diffusion	-1000.0	1000.0
+CSNt2	Cytosine transport in via proton symport	0.0	1000.0
+CYSt2r	L cysteine reversible transport via proton symport	0.0	1000.0
+CYTDt2	Cytidine transport in via proton symport	0.0	1000.0
+D_LACt2	D lactate transport via proton symport	-1000.0	0.0
+ETHAt	Ethanolamine transport via diffusion  extracellular	0.0	1000.0
+DTTPt	DTTP reversible uniport	0.0	1000.0
+DURIt2	Deoxyuridine transport in via proton symport	0.0	1000.0
+DCYTt2	Deoxycytidine transport in via proton symport	0.0	1000.0
+DGSNt2	Deoxyguanosine transport in via proton symport	0.0	1000.0
+DINSt2	Deoxyinosine transport in via proton symport	0.0	1000.0
+FRUt2	D fructose transport in via proton symport	0.0	1000.0
+GLCt1	Glucose transport  uniport	0.0	1000.0
+GSNt2	Guanosine transport in via proton symport	0.0	1000.0
+GUAt2r	Guanine reversible transport via proton symport	0.0	1000.0
+HDCAt	Hexadecanoate  n C160  transport in via uniport	0.0	1000.0
+TTDCAtr	Fatty acid transport	0.0	1000.0
+HXANt2r	Hypoxanthine reversible transport via proton symport	0.0	1000.0
+INSt2	Inosine transport in via proton symport	0.0	1000.0
+INSTt2	Inositol transport in via proton symport	0.0	1000.0
+MELIBt2	Melibiose transport in via symport	0.0	1000.0
+NMNTP	Nmntp	0.0	1000.0
+MMETt2	S methylmethionine permease	0.0	1000.0
+NACt	Nicotinic acid transport	0.0	1000.0
+NADPt	NADP transporter	0.0	1000.0
+OAAt	Oxaloacetate transport	0.0	1000.0
+OCDCAt	Octadecanoate  n C180  transport in via uniport	0.0	1000.0
+ORNt2r	Orntithine reversible transport in via proton symport	0.0	1000.0
+PNTOt2	Pantothenate reversible transport via proton symport	0.0	1000.0
+SO3t	SO3t	-1000.0	1000.0
+HCO3E	HCO3 equilibration reaction	-1000.0	1000.0
+HCO3_h_ti	Hco3 transport	-1000.0	1000.0
+H2St1	H2s transport (diffusion)	-1000.0	1000.0
+H2td	Hydrogen transport	-1000.0	1000.0
+ALAt4	Alanine-Sodium symporter	0.0	1000.0
+GLYt4	Glycine transport via sodium symport	0.0	1000.0
+ASNt4	L-asparagine transport in via sodium symport	0.0	1000.0
+GLUt4	Na+/glutamate symport	0.0	1000.0
+SERabc	L-serine transport via ABC system	0.0	1000.0
+SO4ti	Sulfate irreversible uniport	0.0	1000.0
+NH4t	Ammonia reversible transport	0.0	1000.0
+NAt	Sodium transport (uniport)	0.0	1000.0
+CA2t	Calcium (Ca+2) transport via diffusion (extracellular to periplasm)	0.0	1000.0
+Kt1	Potassium transport via uniport (facilitated diffusion)	0.0	1000.0
+MGt5	Magnesium transport in/out via permease (no H+)	0.0	1000.0
+H2Ot	H2O transport via diffusion	-1000.0	1000.0
+XYLt2	D-xylose transport in via proton symport	0.0	1000.0
+GLCt2	D-glucose transport in via proton symport	0.0	1000.0
+GALt2	D galactose transport in via proton symport	0.0	1000.0
+SUCRt2	Sucrose transport in via proton symport	0.0	1000.0
+SBTt2	D sorbitol transport in via proton symport	0.0	1000.0
+MALTt2	Maltose transport in via proton symport	0.0	1000.0
+MANt2	D mannose transport in via proton symport	0.0	1000.0
+PIt2r	Phosphate reversible transport via symport	-1000.0	1000.0
+CAt4	Calcium transport inout via proton antiporter	-1000.0	0.0
+Kt3r	Potassium transport out via proton antiport	-1000.0	0.0
+NAt3_1	Sodium proton antiporter  HNA is 11	-1000.0	0.0
+PIt8	Phosphate transport in/out via Na+ symporter	0.0	1000.0
+PPIabc	Diphosphate transport in via ABC system	0.0	1000.0
+MALTabc	Maltose transport via ABC system	0.0	1000.0
+RMNabc	L-rhamnose transport (ATP-dependent)	0.0	1000.0
+SUCCabc	Succinate transport via ABC system	0.0	0.0
+SUCRabc	Sucrose transport in via ABC transport	0.0	1000.0
+GLNabc	L-glutamine transport via ABC system	0.0	1000.0
+ARB_Dabc	ARB Dabc	0.0	1000.0
+ARBabc	L-arabinose transport via ABC system	0.0	1000.0
+CYSabc	L-cysteine transport via ABC system	0.0	1000.0
+ARGabc	L-arginine transport via ABC system	0.0	1000.0
+CELLBabc	Cellobiose transport via ATP transporter	0.0	1000.0
+SERt2r	L serine reversible transport via proton symport	0.0	1000.0
+PROt2r	L proline reversible transport via proton symport	0.0	1000.0
+PYRt2	Pyruvate transport in via proton symport	0.0	1000.0
+PHEt2r	L phenylalanine reversible transport via proton symport	0.0	1000.0
+METt2r	L methionine reversible transport via proton symport	0.0	1000.0
+LYSt2r	L lysine reversible transport via proton symport	0.0	1000.0
+LEUt2r	L leucine reversible transport via proton symport	0.0	1000.0
+VALt2r	L valine reversible transport via proton symport	0.0	1000.0
+ILEt2r	L isoleucine reversible transport via proton symport	0.0	1000.0
+GLUt2r	L glutamate transport via proton symport  reversible	0.0	1000.0
+GLNt2r	L glutamine reversible transport via proton symport	0.0	1000.0
+SUCCt2r	Succinate transport via proton symport	-1000.0	1000.0
+THRt2r	L threonine reversible transport via proton symport	0.0	1000.0
+TRPt2r	L tryptophan reversible transport via proton symport	0.0	1000.0
+TYRt2r	L tyrosine reversible transport via proton symport	0.0	1000.0
+FUMt2r	Fumarate reversible transport via symport	0.0	1000.0
+ALAt2r	L alanine reversible transport via proton symport	0.0	1000.0
+GLYCt2	Glycerol transport via symport	0.0	1000.0
+GLYt2r	Glycine reversible transport via proton symport	0.0	1000.0
+HISt2r	L histidine reversible transport via proton symport	0.0	1000.0
+4ABZt2r	4-Aminobenzoate transport via symport	0.0	1000.0
+ETOHt2r	Ethanol reversible transport via proton symport	-1000.0	0.0
+FORt2	Formate transport in via proton symport	-1000.0	0.0
+L_LACt2r	L lactate reversible transport via proton symport	-1000.0	1000.0
+NH4t_1	Ammonia transport, extracellular	0.0	1000.0
+XYLt	D xylose reversible transport	0.0	1000.0
+FRUt1r	D-fructose transport in via uniport	0.0	1000.0
+GALt1r	Galactose transport (uniport)	0.0	1000.0
+MANt1r	Mannose transport (uniport)	0.0	1000.0
+MALt	Malate exchange, diffusion	0.0	1000.0
+4ABZt	4 Aminobenzoate mitochondrial transport via diffusion	-1000.0	0.0
+EX_meoh_e	Methanol exchange	-1000.0	1000.0
+MEOHt2	Methanol diffusion	-1000.0	1000.0
+RAFFINt2	Raffinose transport in via proton symport	0.0	1000.0
+RAFFabc	Raffinose transport via ABC system (import)	0.0	1000.0
+PHEMEt	Heme transport	-1000.0	1000.0
+ALATRS	Alanyl-tRNA synthetase	0.0	1000.0
+ARGTRS	Arginyl-tRNA synthetase	0.0	1000.0
+ASNTRS	Asparaginyl-tRNA synthetase	0.0	1000.0
+ASPTRS	Aspartyl-tRNA synthetase	0.0	1000.0
+CYSTRS	Cysteinyl-tRNA synthetase	0.0	1000.0
+GLNTRS	Glutaminyl-tRNA synthetase	0.0	1000.0
+GLUTRS	Glutamyl-tRNA synthetase	0.0	1000.0
+GLYTRS	Glycyl-tRNA synthetase	0.0	1000.0
+HISTRS	Histidyl-tRNA synthetase	0.0	1000.0
+ILETRS	Isoleucyl-tRNA synthetase	0.0	1000.0
+LEUTRS	Leucyl-tRNA synthetase	0.0	1000.0
+LYSTRS	Lysyl-tRNA synthetase	0.0	1000.0
+METTRS	Methionyl-tRNA synthetase	0.0	1000.0
+PHETRS	Phenylalanyl-tRNA synthetase	0.0	1000.0
+PROTRS	Prolyl-tRNA synthetase	0.0	1000.0
+SERTRS	Seryl-tRNA synthetase	0.0	1000.0
+THRTRS	Threonyl-tRNA synthetase	0.0	1000.0
+TRPTRS	Tryptophanyl-tRNA synthetase	0.0	1000.0
+TYRTRS	Tyrosyl-tRNA synthetase	0.0	1000.0
+VALTRS	Valyl-tRNA synthetase	0.0	1000.0
+A1E	Aldose 1-epimerase	-1000.0	1000.0
+HEX1	Hexokinase (D-glucose:ATP)	0.0	1000.0
+GLUK_syn	Glucokinase	-1000.0	1000.0
+PGI	Glucose-6-phosphate isomerase	-1000.0	1000.0
+G6PI	Glucose 6 phosphate isomerase	-1000.0	1000.0
+PGMT	Phosphoglucomutase	-1000.0	1000.0
+PFK	Phosphofructokinase	0.0	1000.0
+FBA	Fructose-bisphosphate aldolase	-1000.0	1000.0
+TPI	Triose-phosphate isomerase	-1000.0	1000.0
+GAPD	Glyceraldehyde-3-phosphate dehydrogenase	-1000.0	1000.0
+PGK	Phosphoglycerate kinase	-1000.0	1000.0
+PGM	Phosphoglycerate mutase	-1000.0	1000.0
+ENO	Enolase	-1000.0	1000.0
+PYK	Pyruvate kinase	0.0	1000.0
+PEPCK_re	Phosphoenolpyruvate carboxykinase (GTP)	-1000.0	1000.0
+MDH	Malate dehydrogenase	-1000.0	1000.0
+FUM	Fumarase	-1000.0	1000.0
+FRDx	Fumarate reductase NADH	0.0	1000.0
+SUCOAS	Succinyl-CoA synthetase (ADP-forming)	-1000.0	1000.0
+ACONTb	Aconitase (half-reaction B, Isocitrate hydro-lyase)	-1000.0	1000.0
+ACONTa	Aconitase (half-reaction A, Citrate hydro-lyase)	-1000.0	1000.0
+ICDHyr	Isocitrate dehydrogenase (NADP)	-1000.0	1000.0
+DRPA	Deoxyribose-phosphate aldolase	0.0	1000.0
+DRBK	Deoxyribokinase	-1000.0	1000.0
+PPM2	Phosphopentomutase 2 (deoxyribose)	-1000.0	1000.0
+TKT2	Transketolase	-1000.0	1000.0
+TALA	Transaldolase	-1000.0	1000.0
+TKT1	Transketolase	-1000.0	1000.0
+RPE	Ribulose 5-phosphate 3-epimerase	-1000.0	1000.0
+RPI	Ribose-5-phosphate isomerase	-1000.0	1000.0
+PRPPS	Phosphoribosylpyrophosphate synthetase	-1000.0	1000.0
+RBK	Ribokinase	0.0	1000.0
+PPM	Phosphopentomutase	-1000.0	1000.0
+ADPRDP	ADPribose diphosphatase	0.0	1000.0
+ARAI	L-arabinose isomerase	-1000.0	1000.0
+ARABR	Arabinose reductase	-1000.0	1000.0
+GALUi	UTP-glucose-1-phosphate uridylyltransferase (irreversible)	0.0	1000.0
+UDPGD	UDPglucose 6-dehydrogenase	0.0	1000.0
+GULND	Gulonate dehydrogenase	-1000.0	1000.0
+UDPGNP	UDP-glucuronate glucuronohydrolase	-1000.0	1000.0
+CLBH	Cellobiose hydrolase	0.0	1000.0
+GALM	Aldose 1 epimerase	-1000.0	1000.0
+GALK2	Galactokinase	0.0	1000.0
+UDPG4E	UDPglucose 4-epimerase	-1000.0	1000.0
+UGLT	UDPglucose--hexose-1-phosphate uridylyltransferase	-1000.0	1000.0
+GALT	Galactose 1 phosphate uridylyltransferase	-1000.0	1000.0
+LACZ	B-galactosidase	0.0	1000.0
+EPMGH	Epimelibiose galactohydrolase	-1000.0	1000.0
+MELTGH	Melibiitol galactohydrolase	-1000.0	1000.0
+GALIGH	1 alpha D Galactosyl myo inositol galactohydrolase	-1000.0	1000.0
+GGLGH	Galactosylglycerol galactohydrolase	-1000.0	1000.0
+GALOR	D-Galactose:NADP+ 1-oxidoreductase	-1000.0	1000.0
+IAGT	Inositol 3-alpha-galactosyltransferase	0.0	1000.0
+AGMIS	1-alpha-D-Galactosyl-myo-inositol:sucrose	0.0	1000.0
+GALS4	A galactosidase  stachyose	-1000.0	1000.0
+RAFH	Raffinose hydrolyzing enzyme	-1000.0	1000.0
+GALS3	A-galactosidase (melibiose)	0.0	1000.0
+RAFGH	Raffinose galactohydrolase	0.0	1000.0
+SUCR	Sucrose hydrolyzing enzyme	0.0	1000.0
+SBTR	D sorbitol reductase	-1000.0	1000.0
+HEX4	Hexokinase (D-mannose:ATP)	0.0	1000.0
+MAN6PI	Mannose-6-phosphate isomerase	-1000.0	1000.0
+HEX7	Hexokinase (D-fructose:ATP)	0.0	1000.0
+FBP26	Fructose 2 6 bisphosphate 2 phosphatase	0.0	1000.0
+ALLPI	Allose 6-phosphate isomerase	-1000.0	1000.0
+ALLULPE	Allulose 6-phosphate epimerase	-1000.0	1000.0
+PFK26	6 phosphofructo 2 kinase	0.0	1000.0
+FBA2	D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase	-1000.0	1000.0
+MALS	Malate synthase	0.0	1000.0
+PGLYCP	Phosphoglycolate phosphatase	0.0	1000.0
+GF6PTA	Glutamine-fructose-6-phosphate transaminase	0.0	1000.0
+ACGAM6PS	N acetylglucosamine 6 phosphate synthase	-1000.0	1000.0
+ACGAMPM	Phosphoacetylglucosamine mutase	-1000.0	1000.0
+UAGDP	UDP-N-acetylglucosamine diphosphorylase	0.0	1000.0
+CHTNDA	Chitin deacetylase	-1000.0	1000.0
+CHITN1	Chitinase intracellular	-1000.0	1000.0
+UAG4Ei	UDP-N-acetylglucosamine 4-epimerase	-1000.0	1000.0
+FCYTOB5OXR_c	NADH:ferricytochrome-b5 oxidoreductase	-1000.0	1000.0
+PMANM	Phosphomannomutase	-1000.0	1000.0
+MAN1PT	Mannose 1 phosphate guanylyltransferase	-1000.0	1000.0
+GMAND	GDP-D-mannose dehydratase	0.0	1000.0
+GFUCS	GDP-L-fucose synthase	-1000.0	1000.0
+UDPGLDC	UDP-D-glucuronate decarboxylase	-1000.0	1000.0
+XYL14BASE	Xylan 1 4 beta xylosidase	-1000.0	1000.0
+UDPGALM	UDPgalactopyranose mutase	0.0	1000.0
+UAPGR	UDP-N-acetylenolpyruvoylglucosamine reductase	0.0	1000.0
+PPS	Phosphoenolpyruvate synthase	-1000.0	1000.0
+LDH_D	D-lactate dehydrogenase	-1000.0	1000.0
+GLYOX_1	Glyoxalase I; Ni-dependent	-1000.0	1000.0
+GLYOX	Hydroxyacylglutathione hydrolase	0.0	1000.0
+ME1	Malic enzyme (NAD)	0.0	1000.0
+ME2	Malic enzyme (NADP)	0.0	1000.0
+ACOAH	Acetyl-CoA hydrolase	-1000.0	0.0
+ACYP_2	Acylphosphatase (2)	0.0	1000.0
+ACALD	Acetaldehyde dehydrogenase (acetylating)	-1000.0	1000.0
+ALCD2y	Alcohol dehydrogenase (ethanol, NADP)	-1000.0	0.0
+ALCD2x	Alcohol dehydrogenase (ethanol)	-1000.0	1000.0
+IPPS	2-isopropylmalate synthase	0.0	1000.0
+ACCOAC	Acetyl-CoA carboxylase	0.0	1000.0
+MI4PP	1D-myo-Inositol 4-phosphate phosphohydrolase	0.0	1000.0
+MI3456PK	Inositol-3,4,5,6-tetrakisphosphate 1-kinase	-1000.0	1000.0
+ITKK	Inositol-tetrakisphosphate 5-kinase	-1000.0	1000.0
+MI134PK	ATP:1D-myo-inositol-1,3,4-trisphosphate 6-phosphotransferase	-1000.0	1000.0
+MI1345PP	D-myo-Inositol 1,3,4,5-tetrakisphosphate 5-phosphohydrolase	0.0	1000.0
+ITKPK	Inositol-tetrakisphosphate 1-kinase	0.0	1000.0
+MITKP	D-myo-Inositol 1,3,4,5-tetrakisphosphate 3-phosphohydrolase	-1000.0	1000.0
+MI145PP	D-myo-Inositol-1,4,5-trisphosphate 5-phosphohydrolase	-1000.0	1000.0
+MI14PP	D-myo-Inositol-1,4-bisphosphate 1-phosphohydrolase	-1000.0	1000.0
+MI3PS	1D-myo-inositol-3-phosphate lyase (isomerizing)	0.0	1000.0
+MI3PP	1D-myo-Inositol 3-phosphate phosphohydrolase	0.0	1000.0
+MI13PP	Inositol-1,3-bisphosphate 3-phosphatase	-1000.0	1000.0
+FFSD	Beta-fructofuranosidase	0.0	1000.0
+UDPGP	UDP-glucose glucophosphohydrolase	0.0	1000.0
+TRE6PP	Trehalose-phosphatase	0.0	1000.0
+TREH	Alpha,alpha-trehalase	0.0	1000.0
+TRE6PS	Alpha,alpha-trehalose-phosphate synthase (UDP-forming)	0.0	1000.0
+AAMYL_1	Alpha amylase	-1000.0	1000.0
+MALT	Alpha glucosidase	-1000.0	1000.0
+ALCD20y	ALCD20y	-1000.0	1000.0
+MGSA	Methylglyoxal synthase	0.0	1000.0
+OBTFL	2-Oxobutanoate formate lyase	0.0	1000.0
+ACS2	Acetyl-CoA synthase (propionate)	-1000.0	1000.0
+MME	Methylmalonyl-CoA epimerase	-1000.0	1000.0
+BTCOARx	Butyryl-coA reductase (NADH)	-1000.0	1000.0
+BTDD_RR	R R  butanediol dehydrogenase	-1000.0	1000.0
+ACLDC	Acetolactate decarboxylase	-1000.0	1000.0
+ACLSb	Acetolactate synthase (step 2)	-1000.0	1000.0
+PFL	Pyruvate formate lyase	0.0	1000.0
+GLDBRAN2	Glycogen debranching enzyme (bglycogen -> glycogen)	0.0	1000.0
+GLBRAN2	1,4-alpha-glucan branching enzyme (glycogen -> bglycogen)	0.0	1000.0
+GLCP2	Glycogen phosphorylase	0.0	1000.0
+GLCP	Glycogen phosphorylase	0.0	1000.0
+XYLI1	Xylose isomerase	-1000.0	1000.0
+XYLK	Xylulokinase	0.0	1000.0
+AAMYL	Alpha-amylase	0.0	1000.0
+PPA	Inorganic diphosphatase	0.0	1000.0
+PYRDC	Pyruvate decarboxylase	0.0	1000.0
+ALDD2x	Aldehyde dehydrogenase (acetaldehyde, NAD)	0.0	1000.0
+FBA3	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	-1000.0	1000.0
+PFK_3	Phosphofructokinase (s7p)	0.0	1000.0
+ALATA_L	L-alanine transaminase	-1000.0	1000.0
+ASNS2	Asparagine synthetase	0.0	1000.0
+ASNN	L-asparaginase	0.0	1000.0
+ASPTA	Aspartate transaminase	-1000.0	1000.0
+GLUDy	Glutamate dehydrogenase (NADP)	-1000.0	1000.0
+GLUSy	Glutamate synthase (NADPH)	0.0	1000.0
+GLNS	Glutamine synthetase	0.0	1000.0
+GLUN	Glutaminase	0.0	1000.0
+ASPCT	Aspartate carbamoyltransferase	-1000.0	1000.0
+ASNS1	Asparagine synthase (glutamine-hydrolysing)	0.0	1000.0
+r0085	2-Oxoglutaramate amidohydrolase Glutamate metabolism EC:3.5.1.3	-1000.0	1000.0
+ARGSS	Argininosuccinate synthase	0.0	1000.0
+ADSS	Adenylosuccinate synthase	0.0	1000.0
+ARGSL	Argininosuccinate lyase	-1000.0	1000.0
+ADSL1r	Adenylsuccinate lyase	-1000.0	1000.0
+GLUDC	Glutamate Decarboxylase	0.0	1000.0
+CBPS	Carbamoyl-phosphate synthase (glutamine-hydrolysing)	0.0	1000.0
+GLUPRT	Glutamine phosphoribosyldiphosphate amidotransferase	0.0	1000.0
+GLYCK	Glycerate kinase	0.0	1000.0
+HPYRRy	Hydroxypyruvate reductase (NADPH)	0.0	1000.0
+HPYRRx	Hydroxypyruvate reductase (NADH)	0.0	1000.0
+PSP_L	Phosphoserine phosphatase (L-serine)	0.0	1000.0
+TRPS2	Tryptophan synthase (indole)	0.0	1000.0
+TRPS1	Tryptophan synthase (indoleglycerol phosphate)	0.0	1000.0
+GNMT	Glycine N-methyltransferase	-1000.0	1000.0
+SER_AL	L-serine ammonia-lyase	0.0	1000.0
+THRA	Threonine aldolase	0.0	1000.0
+GLYAT	Glycine C-acetyltransferase	-1000.0	1000.0
+THRS	Threonine synthase	0.0	1000.0
+THRD	L-threonine dehydrogenase	0.0	1000.0
+THRD_L	L-threonine deaminase	0.0	1000.0
+HSK	Homoserine kinase	0.0	1000.0
+HSDy	Homoserine dehydrogenase (NADPH)	-1000.0	0.0
+HSDxi	Homoserine dehydrogenase  NADH   irreversible	-1000.0	0.0
+ASAD	Aspartate-semialdehyde dehydrogenase	-1000.0	1000.0
+ASPK	Aspartate kinase	-1000.0	1000.0
+GHMT2r	Glycine hydroxymethyltransferase, reversible	-1000.0	1000.0
+SERD_L	L-serine deaminase	0.0	1000.0
+CYS	L-cysteine	-1000.0	0.0
+2AMACHYD	2-Aminoacrylate hydrolysis	0.0	1000.0
+SERAT	Serine O-acetyltransferase	-1000.0	1000.0
+CYSS	Cysteine synthase	0.0	1000.0
+CYSTGL	Cystathionine g lyase	-1000.0	1000.0
+CYSTS	Cystathionine beta synthase	-1000.0	1000.0
+ADMDC	Adenosylmethionine decarboxylase	0.0	1000.0
+SPMS	Spermidine synthase	0.0	1000.0
+MTAP	5  methylthioadenosine phosphorylase	-1000.0	1000.0
+MTRI	5-methylthioribose-1-phosphate isomerase	-1000.0	1000.0
+CYSDS	Cysteine Desulfhydrase	0.0	1000.0
+CYSTA	Cysteine transaminase	-1000.0	1000.0
+ACPCS	1-aminocyclopropane-1-carboxylate synthase	0.0	1000.0
+METSR_S1	L methionine S oxide reductase  trdrd	-1000.0	1000.0
+ARAT	Methionine transaminase	-1000.0	1000.0
+AHCi	Adenosylhomocysteinase	-1000.0	1000.0
+CYTOM	Cytosine 5 methyltransferase	-1000.0	1000.0
+HSERTA	Homoserine O trans acetylase	-1000.0	1000.0
+FMETDF	Formylmethionine deformylase	0.0	1000.0
+MHPGLUT	5 methyltetrahydropteroyltriglutamate homocysteine S methyltransferase	0.0	1000.0
+AHSERL2	O acetylhomoserine  thiol  lyase	0.0	1000.0
+HMR_3915	Histamine N-Methyltransferase	0.0	1000.0
+ACLS	Acetolactate synthase	0.0	1000.0
+KARA1	Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)	-1000.0	1000.0
+DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	0.0	1000.0
+ACHBS	2-aceto-2-hydroxybutanoate synthase	0.0	1000.0
+KARA2	Ketol-acid reductoisomerase (2-Acetolactate)	-1000.0	1000.0
+DHAD2	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	0.0	1000.0
+IPPMIb	2-isopropylmalate hydratase	-1000.0	1000.0
+IPPMIa	3-isopropylmalate dehydratase	-1000.0	1000.0
+IPMD	3-isopropylmalate dehydrogenase	0.0	1000.0
+OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	0.0	1000.0
+ILETA	Isoleucine transaminase	-1000.0	1000.0
+VALTA	Valine transaminase	-1000.0	1000.0
+LEUTA	Leucine transaminase	-1000.0	1000.0
+MHGS	Hydroxymethylglutaryl-coa synthase	-1000.0	1000.0
+KAT1	3-ketoacyl-CoA thiolase	-1000.0	1000.0
+HIBD	3 hydroxyisobutyrate dehydrogenase	-1000.0	1000.0
+MMSAD1	Methylmalonate semialdehyde dehydrogenase	-1000.0	1000.0
+PPCOAC	Propionyl-CoA carboxylase	-1000.0	1000.0
+KARI_1	Ketol-acid reductoisomerase	-1000.0	1000.0
+KARI_23dhmp_1	Ketol-acid reductoisomerase, (R)-2,3-Dihydroxy-3-methylpentanoate forming	0.0	1000.0
+HCITS	Homocitrate synthase	-1000.0	1000.0
+AATA	2 aminoadipate transaminase	-1000.0	1000.0
+AASAD1	L aminoadipate semialdehyde dehydrogenase  NADPH	0.0	1000.0
+SACCD1	Saccharopine dehydrogenase  NADP  L glutamate forming	-1000.0	1000.0
+LYSDC	Lysine decarboxylase	0.0	1000.0
+AASAD3	L-aminoadipate-semialdehyde dehydrogenase (NADH)	0.0	1000.0
+AASAD2	L aminoadipate semialdehyde dehydrogenase  NADH	0.0	1000.0
+OXOADLR	2 Oxoadipatelipoamde 2 oxidoreductase decarboxylating and acceptor succinylating	-1000.0	1000.0
+GLCOASYNT	Glutaryl CoAdihydrolipoamide S succinyltransferase	-1000.0	1000.0
+GLUTCOADHc	Glutaryl-CoA dehydrogenase (citosol)	-1000.0	1000.0
+ECOAH1	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)	-1000.0	1000.0
+ACACCT	Acetyl-CoA:acetoacetyl-CoA transferase	0.0	1000.0
+ACGS	N-acetylglutamate synthase	0.0	1000.0
+ACGK	Acetylglutamate kinase	0.0	1000.0
+AGPR	N-acetyl-g-glutamyl-phosphate reductase	-1000.0	1000.0
+ACOTA	Acetylornithine transaminase	-1000.0	1000.0
+ORNTAC	Ornithine transacetylase	0.0	1000.0
+OCBT	Ornithine carbamoyltransferase	-1000.0	1000.0
+ACODA	Acetylornithine deacetylase	0.0	1000.0
+ARGN	Arginase	0.0	1000.0
+GLU5K	Glutamate 5-kinase	0.0	1000.0
+G5SD	Glutamate-5-semialdehyde dehydrogenase	0.0	1000.0
+PRO1y	Proline oxidase (L-proline, NADP)	-1000.0	0.0
+PRO1x	Proline oxidase  L proline  NAD	0.0	1000.0
+ORNDC	Ornithine Decarboxylase	0.0	1000.0
+SPRMS	Spermine synthase	-1000.0	1000.0
+G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	0.0	1000.0
+ABTA	4-aminobutyrate transaminase	0.0	1000.0
+GACMTRc	Guanidinoacetate N-methyltransferase (c)	-1000.0	1000.0
+CMPA_1	N-carbamoylputrescine amidase	0.0	1000.0
+PTRCAT1	Putrescine acetyltransferase	-1000.0	1000.0
+AABHH	Alpha-Aminobutyryl histidine hydrolase	-1000.0	1000.0
+ATPPRT	ATP phosphoribosyltransferase	0.0	1000.0
+PRATPP	Phosphoribosyl-ATP pyrophosphatase	0.0	1000.0
+PRMICI	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	-1000.0	1000.0
+IGPDH	Imidazoleglycerol-phosphate dehydratase	0.0	1000.0
+HSTPT	Histidinol-phosphate transaminase	0.0	1000.0
+HISTP	Histidinol-phosphatase	0.0	1000.0
+HISTD	Histidinol dehydrogenase	0.0	1000.0
+PRAMPC	Phosphoribosyl-AMP cyclohydrolase	0.0	1000.0
+IG3PS	Imidazole-glycerol-3-phosphate synthase	0.0	1000.0
+DDPA	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	0.0	1000.0
+DHQS	3-dehydroquinate synthase	0.0	1000.0
+DHQTi	3-dehydroquinate dehydratase, irreversible	0.0	1000.0
+SHK3Dr	Shikimate dehydrogenase	-1000.0	1000.0
+SHKK	Shikimate kinase	0.0	1000.0
+PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	-1000.0	1000.0
+CHORS	Chorismate synthase	0.0	1000.0
+CHORM	Chorismate mutase	0.0	1000.0
+PPND2	Prephenate dehydrogenase  NADP	-1000.0	1000.0
+TYRTA	Tyrosine transaminase	-1000.0	1000.0
+PHETA1	Phenylalanine transaminase	-1000.0	1000.0
+AROH	L-Arogenate hydro-lyase	0.0	1000.0
+PPNDH	Prephenate dehydratase	0.0	1000.0
+ANS	Anthranilate synthase	0.0	1000.0
+ANPRT	Anthranilate phosphoribosyltransferase	0.0	1000.0
+PRAIi	Phosphoribosylanthranilate isomerase (irreversible)	0.0	1000.0
+IGPS	Indole-3-glycerol-phosphate synthase	0.0	1000.0
+TRPAS2	Tryptophanase (L-tryptophan)	-1000.0	1000.0
+INDPYRD	Indole 3 pyruvate decarboxylase	-1000.0	1000.0
+NTRLASE	Nitrilase	-1000.0	1000.0
+ALDD20x	Aldehyde dehydrogenase (indole-3-acetaldehyde, NAD)	0.0	1000.0
+ALDD20y	Aldehyde dehydrogenase  indole 3 acetaldehyde  NADP	0.0	1000.0
+FKYNH	N Formyl L kynurenine amidohydrolase	0.0	1000.0
+KYNAKGAT	L-Kynurenine:2-oxoglutarate aminotransferase	-1000.0	1000.0
+3HKYNAKGAT	3-Hydroxy-L-kynurenine:2-oxoglutarate aminotransferase	-1000.0	1000.0
+3HXKYNDCL	3-Hydroxykynurenamine decarboxy-lyase	0.0	1000.0
+HACD1	3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)	-1000.0	1000.0
+HBCO_nadp	3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase	0.0	1000.0
+EX_ac_e	Acetate exchange	0.0	1000.0
+EX_cellb_e	Cellobiose exchange	-0.75	-0.75
+EX_co2_e	CO2 exchange	0.0	1000.0
+EX_etoh_e	Ethanol exchange	0.0	1000.0
+EX_for_e	Formate exchange	0.0	1000.0
+EX_fru_e	D-Fructose exchange	0.0	0.0
+EX_gal_e	D-Galactose exchange	0.0	0.0
+EX_glc__D_e	D-Glucose exchange	0.0	0.0
+EX_h_e	H+ exchange	-1000.0	1000.0
+EX_h2_e	H2 exchange	0.0	1000.0
+EX_h2o_e	H2O exchange	-1000.0	1000.0
+EX_lac__D_e	D-lactate exchange	0.0	1000.0
+EX_lac__L_e	L-Lactate exchange	0.0	0.0
+EX_man_e	D-Mannose exchange	0.0	0.0
+EX_nh4_e	Ammonia exchange	-1000.0	1000.0
+EX_pi_e	Phosphate exchange	-1000.0	1000.0
+EX_rib__D_e	D-Ribose exchange	0.0	0.0
+EX_xyl__D_e	D-Xylose exchange	0.0	0.0
+EX_gly_e	Glycine exchange	0.0	0.0
+EX_ala__L_e	L-Alanine exchange	0.0	0.0
+EX_val__L_e	L-Valine exchange	0.0	0.0
+EX_leu__L_e	L-Leucine exchange	0.0	0.0
+EX_met__L_e	L-Methionine exchange	0.0	0.0
+EX_ile__L_e	L-Isoleucine exchange	0.0	0.0
+EX_ser__L_e	L-Serine exchange	0.0	0.0
+EX_thr__L_e	L-Threonine exchange	0.0	0.0
+EX_cys__L_e	L-Cysteine exchange	-1000.0	1000.0
+EX_pro__L_e	L-Proline exchange	0.0	0.0
+EX_asn__L_e	L-Asparagine exchange	0.0	0.0
+EX_gln__L_e	L-Glutamine exchange	0.0	0.0
+EX_phe__L_e	L-Phenylalanine exchange	0.0	0.0
+EX_tyr__L_e	L-Tyrosine exchange	0.0	0.0
+EX_trp__L_e	L-Tryptophan exchange	0.0	0.0
+EX_lys__L_e	L-Lysine exchange	0.0	0.0
+EX_arg__L_e	L-Arginine exchange	0.0	0.0
+EX_his__L_e	L-Histidine exchange	0.0	0.0
+EX_asp__L_e	L-Aspartate exchange	0.0	0.0
+EX_glu__L_e	L-Glutamate exchange	0.0	0.0
+EX_sbt__D_e	D-Sorbitol exchange	0.0	0.0
+EX_malt_e	Maltose exchange	0.0	0.0
+EX_sucr_e	Sucrose exchange	0.0	0.0
+EX_arab__L_e	L-Arabinose exchange	0.0	0.0
+EX_arab__D_e	D Arabinose exchange	0.0	0.0
+EX_rmn_e	L-Rhamnose exchange	0.0	0.0
+EX_pyr_e	Pyruvate exchange	0.0	0.0
+EX_succ_e	Succinate exchange	0.0	1000.0
+EX_cit_e	Citrate exchange	0.0	0.0
+EX_glyc_e	Glycerol exchange	0.0	0.0
+EX_4abz_e	4 Aminobenzoate exchange	-1000.0	0.0
+EX_fum_e	Fumarate exchange	0.0	0.0
+EX_ppi_e	Diphosphate exchange	0.0	1000.0
+EX_hco3_e	EX hco3 LPAREN e RPAREN	0.0	0.0
+EX_h2s_e	Hydrogen sulfide exchange	0.0	0.0
+EX_k_e	K+ exchange	-1000.0	1000.0
+EX_ca2_e	Calcium exchange	-1000.0	1000.0
+EX_na1_e	Sodium exchange	-1000.0	1000.0
+EX_mg2_e	Mg exchange	-1000.0	1000.0
+EX_so4_e	Sulfate exchange	-1000.0	1000.0
+EX_pectin_e	Pectin exchange	-1000.0	1000.0
+EX_acgam_e	N-Acetyl-D-glucosamine exchange	-1000.0	1000.0
+EX_dextrin_e	Dextrin exchange	0.0	0.0
+EX_raffin_e	Raffinose exchange	0.0	0.0
+EX_oaa_e	Oxaloacetate exchange	0.0	0.0
+EX_pheme_e	Protoheme exchange	-1000.0	1000.0
+EX_mal__L_e	L-Malate exchange	0.0	0.0
+EX_3mop_e	3mop exchange	0.0	0.0
+EX_ade_e	Adenine exchange	0.0	0.0
+EX_adn_e	Adenosine exchange	0.0	0.0
+EX_akg_e	2-Oxoglutarate exchange	0.0	0.0
+EX_amet_e	S Adenosyl L methionine exchange	0.0	0.0
+EX_btn_e	Biotin exchange	0.0	0.0
+EX_chol_e	Choline exchange	0.0	0.0
+EX_csn_e	Cytosine exchange	0.0	0.0
+EX_cytd_e	Cytidine exchange	0.0	0.0
+EX_etha_e	Ethanolamine exchange	0.0	0.0
+EX_dttp_e	DTTP exchange	0.0	0.0
+EX_duri_e	Deoxyuridine exchange	0.0	0.0
+EX_dcyt_e	Deoxycytidine exchange	0.0	0.0
+EX_dgsn_e	Deoxyguanosine exchange	0.0	0.0
+EX_gsn_e	Guanosine exchange	0.0	0.0
+EX_gua_e	Guanine exchange	0.0	0.0
+EX_hdca_e	Hexadecanoate (n-C16:0) exchange	0.0	0.0
+EX_hxan_e	Hypoxanthine exchange	0.0	0.0
+EX_ins_e	Inosine exchange	0.0	0.0
+EX_inost_e	Myo-Inositol exchange	0.0	0.0
+EX_melib_e	Melibiose exchange	0.0	0.0
+EX_nmn_e	NMN exchange	0.0	0.0
+EX_mmet_e	S-Methyl-L-methionine exchange	0.0	0.0
+EX_nac_e	Nicotinate exchange	0.0	0.0
+EX_nadp_e	Nicotinamide adenine dinucleotide phosphate exchange	0.0	0.0
+EX_ocdca_e	Octadecanoate (n-C18:0) exchange	0.0	0.0
+EX_ttdca_e	Tetradecanoate (n-C14:0) exchange	0.0	0.0
+EX_pnto__R_e	(R)-Pantothenate exchange	0.0	0.0
+EX_orn_e	Ornithine exchange	0.0	0.0
+EX_so3_e	Sulfite exchange	-1000.0	1000.0
+PPRGL	Phosphoribosylamine---glycine ligase	0.0	1000.0
+GARFT	Phosphoribosylglycinamide formyltransferase	-1000.0	1000.0
+PRFGS	Phosphoribosylformylglycinamidine synthase	0.0	1000.0
+PRFGCL	Phosphoribosylformylglycinamidine cyclo-ligase	0.0	1000.0
+PRAIC	Phosphoribosylaminoimidazole carboxylase, cytosol	-1000.0	1000.0
+PRASCSi	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	0.0	1000.0
+ADSL2r	Adenylosuccinate lyase	-1000.0	1000.0
+AICART	Phosphoribosylaminoimidazolecarboxamide formyltransferase	-1000.0	1000.0
+IMPC	IMP cyclohydrolase	-1000.0	1000.0
+NTD11	5'-nucleotidase (IMP)	0.0	1000.0
+PUNP5	Purine-nucleoside phosphorylase (Inosine)	-1000.0	1000.0
+HXPRT	Hypoxanthine phosphoribosyltransferase (Hypoxanthine)	0.0	1000.0
+NTPP6	Nucleoside triphosphate pyrophosphorylase (atp)	0.0	1000.0
+ADK1	Adenylate kinase	-1000.0	1000.0
+NTD7	5'-nucleotidase (AMP)	0.0	1000.0
+PUNP1	Purine-nucleoside phosphorylase (Adenosine)	-1000.0	1000.0
+ADPT	Adenine phosphoribosyltransferase	0.0	1000.0
+PUNP2	Purine-nucleoside phosphorylase (Deoxyadenosine)	-1000.0	1000.0
+NTD6	5'-nucleotidase (dAMP)	0.0	1000.0
+DADK	Deoxyadenylate kinase	-1000.0	1000.0
+NDPK8	Nucleoside-diphosphate kinase (ATP:dADP)	-1000.0	1000.0
+IMPD	IMP dehydrogenase	0.0	1000.0
+GMPR	GMP reductase	0.0	1000.0
+GMPS2	GMP synthase	0.0	1000.0
+NTD10	5'-nucleotidase (XMP)	0.0	1000.0
+XPPT	Xanthine phosphoribosyltransferase	0.0	1000.0
+PUNP7	Purine-nucleoside phosphorylase (Xanthosine)	-1000.0	1000.0
+NTPP2	Nucleoside triphosphate pyrophosphorylase (gtp)	0.0	1000.0
+NDPK1	Nucleoside-diphosphate kinase (ATP:GDP)	-1000.0	1000.0
+GK1	Guanylate kinase (GMP:ATP)	-1000.0	1000.0
+NTD9	5'-nucleotidase (GMP)	0.0	1000.0
+PUNP3	Purine-nucleoside phosphorylase (Guanosine)	-1000.0	1000.0
+GPAR	GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase	0.0	1000.0
+PUNP4	Purine-nucleoside phosphorylase (Deoxyguanosine)	-1000.0	1000.0
+NTD8	5'-nucleotidase (dGMP)	0.0	1000.0
+DGK1	Deoxyguanylate kinase (dGMP:ATP)	-1000.0	1000.0
+NDPK5	Nucleoside-diphosphate kinase (ATP:dGDP)	-1000.0	1000.0
+3NUCLE1	3  nucleotidase  3  AMP	0.0	1000.0
+23CN2P1	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclc AMP	0.0	1000.0
+NDP1	Nucleoside diphosphatase  ADP	0.0	1000.0
+NTP1	Nucleoside-triphosphatase (ATP)	0.0	1000.0
+NDPK9	Nucleoside diphosphate kinase  ATPIDP	-1000.0	1000.0
+ADNCYC	Adenylate cyclase	0.0	1000.0
+PDE1	3',5'-cyclic-nucleotide phosphodiesterase	0.0	1000.0
+DADA	Deoxyadenosine deaminase	0.0	1000.0
+PUNP6	Purine-nucleoside phosphorylase (Deoxyinosine)	-1000.0	1000.0
+ADD	Adenine deaminase	0.0	1000.0
+ALLTN	Allantoinase	0.0	1000.0
+INSH	Inosine hydrolase	0.0	1000.0
+ADA	Adenosine deaminase	0.0	1000.0
+ADNUC	Adenosine hydrolase	0.0	1000.0
+ADNK1	Adenosine kinase	0.0	1000.0
+NTP11	Nucleoside-triphosphatase (dITP)	0.0	1000.0
+NTP10	Nucleoside-triphosphatase (ITP)	0.0	1000.0
+IDPA	IDP-apyrase	0.0	1000.0
+AP4AH1	Ap4A hydrolase, asymmetrically	0.0	1000.0
+NTPP11	Nucleoside triphosphate pyrophosphorylase (xtp)	0.0	1000.0
+XTSNH	Xanthosine hydrolase	0.0	1000.0
+GUAD	Guanine deaminase	0.0	1000.0
+GNNUC	Ribosylpyrimidine nucleosidase	0.0	1000.0
+3NUCLE4	3  nucleotidase  guanosine 3  phosphate	0.0	1000.0
+23CN2P4	2  3  cyclic nucleotide 2  phosphodiesterase  2  3   cyclic GMP	0.0	1000.0
+NDP3	Nucleoside diphosphatase  GDP	0.0	1000.0
+NTP3	Nucleoside-triphosphatase (GTP)	0.0	1000.0
+ATPATF3	ATP adenylyltransferase	-1000.0	1000.0
+PPGPPDP	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	0.0	1000.0
+GUAC	Guanylate cyclase	0.0	1000.0
+PDE4	3',5'-cyclic-nucleotide phosphodiesterase	0.0	1000.0
+NDPK4	Nucleoside-diphosphate kinase (ATP:dTDP)	-1000.0	1000.0
+DHORTS	Dihydroorotase	-1000.0	1000.0
+DHORD3	DHORD3	-1000.0	1000.0
+NADPHQR	NADPHQR	-1000.0	1000.0
+ORPT	Orotate phosphoribosyltransferase	-1000.0	1000.0
+OMPDC	Orotidine-5'-phosphate decarboxylase	0.0	1000.0
+UPPRT	Uracil phosphoribosyltransferase	0.0	1000.0
+NTD2	5'-nucleotidase (UMP)	0.0	1000.0
+URIK1	Uridine kinase  ATPUridine	0.0	1000.0
+3NUCLE2	3  nucleotidase  3  UMP	0.0	1000.0
+23CN2P2	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic UMP	0.0	1000.0
+CYTD	Cytidine deaminase	0.0	1000.0
+PYNP2r	Pyrimidine-nucleoside phosphorylase (uracil)	-1000.0	1000.0
+URIH	Uridine hydrolase	0.0	1000.0
+YUMPS	YUMP synthetase	-1000.0	1000.0
+DURIPP	Deoxyuridine phosphorylase	-1000.0	1000.0
+NTD1	5'-nucleotidase (dUMP)	0.0	1000.0
+DURIK1	Deoxyuridine kinase (ATP:Deoxyuridine)	0.0	1000.0
+TMDS	Thymidylate synthase	0.0	1000.0
+DCYTD	Deoxycytidine deaminase	0.0	1000.0
+NTD3	5'-nucleotidase (dCMP)	0.0	1000.0
+CYTK2	Cytidylate kinase (dCMP)	-1000.0	1000.0
+NDPK7	Nucleoside-diphosphate kinase (ATP:dCDP)	-1000.0	1000.0
+MCSNAH	5-Methylcytosine aminohydrolase	0.0	1000.0
+NDP8	Nucleoside-diphosphatase (dUDP)	0.0	1000.0
+NTP8	NTP8	0.0	1000.0
+DTMPK	DTMP kinase	-1000.0	1000.0
+DTPH	DTDP phosphohydrolase	0.0	1000.0
+NTP9	DTTP nucleotidohydrolase	0.0	1000.0
+NTPP7	Nucleoside triphosphate pyrophosphorylase (dttp)	0.0	1000.0
+TMDK1	Thymidine kinase (ATP:thymidine)	0.0	1000.0
+NTD5	5'-nucleotidase (dTMP)	0.0	1000.0
+23CN2P3	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic CMP	0.0	1000.0
+3NUCLE3	3  nucleotidase  3  cMP	0.0	1000.0
+NTD4	5'-nucleotidase (CMP)	0.0	1000.0
+PYNP1	Pyrimidine-nucleoside phosphorylase (cytosine)	-1000.0	1000.0
+CSND	Cytosine deaminase	0.0	1000.0
+CYTDK1	ATP:cytidine 5'-phosphotransferase	0.0	1000.0
+UMPK	UMP kinase	-1000.0	1000.0
+NDPK2	Nucleoside-diphosphate kinase (ATP:UDP)	-1000.0	1000.0
+CTPS2	CTP synthase (glutamine)	0.0	1000.0
+NDPK3	Nucleoside-diphosphate kinase (ATP:CDP)	-1000.0	1000.0
+CYTK1	Cytidylate kinase (CMP)	-1000.0	1000.0
+NTPP4	Nucleoside triphosphate pyrophosphorylase (ctp)	0.0	1000.0
+NTPP8	Nucleoside triphosphate pyrophosphorylase (utp)	0.0	1000.0
+NTP7	Nucleoside-triphosphatase (UTP)	0.0	1000.0
+NDP7	Nucleoside diphosphatase  UDP	0.0	1000.0
+NTP5	Nucleoside-triphosphatase (CTP)	0.0	1000.0
+CDPPH	CDP phosphohydrolase	0.0	1000.0
+RNDR2	Ribonucleoside-diphosphate reductase (GDP)	0.0	1000.0
+RNTR2	Ribonucleoside triphosphate reductase  GTP	-1000.0	1000.0
+RNDR1	Ribonucleoside-diphosphate reductase (ADP)	0.0	1000.0
+RNTR1	Ribonucleoside triphosphate reductase  ATP	-1000.0	1000.0
+RNDR3	Ribonucleoside-diphosphate reductase (CDP)	0.0	1000.0
+RNTR3	Ribonucleoside triphosphate reductase  CTP	-1000.0	1000.0
+RNDR4	Ribonucleoside-diphosphate reductase (UDP)	0.0	1000.0
+RNTR4	Ribonucleoside triphosphate reductase  UTP	-1000.0	1000.0
+APATT	APS:ATP adenylyltransferase	0.0	1000.0
+BTPS	Bis(5'-nucleosyl)-tetraphosphatase (symmetrical)	0.0	1000.0
+BTP	Bis(5'-adenosyl)-triphosphatase	0.0	1000.0
+ADATT	ADP:ATP adenylyltransferase	-1000.0	0.0
+HMPK1	Hydroxymethylpyrimidine kinase (ATP)	0.0	1000.0
+HMPK2	Hydroxymethylpyrimidine kinase (CTP)	0.0	1000.0
+HMPK3	Hydroxymethylpyrimidine kinase (UTP)	0.0	1000.0
+HMPK4	Hydroxymethylpyrimidine kinase (GTP)	0.0	1000.0
+PMPK	Phosphomethylpyrimidine kinase	0.0	1000.0
+TYRL	Tyrosine lyase	0.0	1000.0
+HETZK	Hydroxyethylthiazole kinase	0.0	1000.0
+THMP	Thiamin phosphatase	-1000.0	1000.0
+TMPPP	Thiamine-phosphate diphosphorylase	0.0	1000.0
+TMPPP_1	Thiamine-phosphate diphoshorylase	-1000.0	1000.0
+TMDPK	Thiamine diphosphokinase	-1000.0	1000.0
+TMDPPK	Thiamine diphosphate kinase	-1000.0	1000.0
+PYDXS	Pyridoxal 5-phosphate synthase	0.0	1000.0
+GLYCK2	Glycerate kinase	0.0	1000.0
+HPYRDC	Hydroxypyruvate decarboxylase	-1000.0	1000.0
+PDXPP	Pyridoxine 5-phosphate phosphatase	0.0	1000.0
+PYDXNK	Pyridoxine kinase	0.0	1000.0
+PYDXOR	Pyridoxine:NADP+ 4-oxidoreductase	-1000.0	1000.0
+PYDXK	Pyridoxal kinase	0.0	1000.0
+PYDXPP	Pyridoxal 5-phosphate phosphatase	0.0	1000.0
+PDYXPT_c	Pyridoxamine-pyruvic transaminase	-1000.0	1000.0
+PYDAMK	Pyridoxamine kinase	0.0	1000.0
+HYPOE	Hypothetical enyme	0.0	1000.0
+OHPBAT	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	-1000.0	1000.0
+4HTHRS	4-Hydroxy-L-threonine synthase	0.0	1000.0
+DB4PS	3,4-Dihydroxy-2-butanone-4-phosphate synthase	0.0	1000.0
+RBFSa	Riboflavin synthase	0.0	1000.0
+RBFSb	Riboflavin synthase	0.0	1000.0
+ACP1_FMN	Acid phosphatase (FMN)	0.0	1000.0
+RBFK	Riboflavin kinase	0.0	1000.0
+FADDP	FAD diphosphatase	0.0	1000.0
+FMNAT	FMN adenylyltransferase	0.0	1000.0
+FMNRx	FMN reductase	0.0	1000.0
+FMNRx2	FMN reductase	0.0	1000.0
+GTPCII2	GTP cyclohydrolase II (25drapp)	0.0	1000.0
+DHPPDA2	Diaminohydroxyphosphoribosylaminopryrimidine deaminase (25drapp)	0.0	1000.0
+PMDPHT	Pyrimidine phosphatase	0.0	1000.0
+APRAUR	5-amino-6-(5-phosphoribosylamino)uracil reductase	0.0	1000.0
+PNP	Purine nucleoside phosphorylase	0.0	1000.0
+NMNHYD	Nicotinamide ribonucleotide phosphohydrolase	0.0	1000.0
+NP1	Nucleotide phosphatase	-1000.0	1000.0
+NT5C	5'-nucleotidase	0.0	1000.0
+NNATr	Nicotinate-nucleotide adenylyltransferase	-1000.0	1000.0
+DNADDP	Deamino-NAD+ nucleotidohydrolase	0.0	1000.0
+NADS2	Nicotinate-mononucleotide adenylyltransferase	0.0	1000.0
+NNMT	Nicotinamide N methyltransferase	0.0	1000.0
+RNMK	Ribosylnicotinamide kinase	0.0	1000.0
+NMNAT	Nicotinamide-nucleotide adenylyltransferase	0.0	1000.0
+NPH	NAD+ phosphohydrolase	0.0	1000.0
+NADK	NAD kinase	0.0	1000.0
+NADK1	NAD kinase  GTP	0.0	1000.0
+NADS1	NAD synthase (nh3)	0.0	1000.0
+NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	0.0	1000.0
+QULNS	Quinolinate synthase	0.0	1000.0
+ASPO5	L-aspartate oxidase	0.0	1000.0
+MOHMT	3-methyl-2-oxobutanoate hydroxymethyltransferase	0.0	1000.0
+DPR	2-dehydropantoate 2-reductase	0.0	1000.0
+PANTS	Pantothenate synthase	0.0	1000.0
+PNTK	Pantothenate kinase	0.0	1000.0
+ASP1DC	Aspartate 1-decarboxylase	0.0	1000.0
+BUPN	Beta-ureidopropionase	0.0	1000.0
+PPNCL3	4'-Phosphopantothenate:L-cysteine ligase	0.0	1000.0
+PPNCL	Phosphopantothenate-cysteine ligase	0.0	1000.0
+PPCDC	Phosphopantothenoylcysteine decarboxylase	0.0	1000.0
+APCPT	ATP:pantothenoyl-L-cysteine 4'-phosphotransferase	-1000.0	1000.0
+APPAT	ATP:pantetheine-4'-phosphate adenylyltransferase	0.0	1000.0
+DPCOAPP	Pyrophasphatase (dephospho-CoA)	0.0	1000.0
+APNPT	ATP:pantetheine 4'-phosphotransferase	0.0	1000.0
+PPNCL2	Phosphopantothenate-cysteine ligase	0.0	1000.0
+BTS6	Biotin synthase	0.0	1000.0
+BACCL	Biotin acetyl CoA carboxylase ligase	-1000.0	1000.0
+BTNPL2	Holocarboxylase synthestase (biotin protein ligase)	-1000.0	1000.0
+DBTS	Dethiobiotin synthase	0.0	1000.0
+AMAOTr	Adenosylmethionine-8-amino-7-oxononanoate transaminase	-1000.0	1000.0
+AOXSr2	8-amino-7-oxononanoate synthase	0.0	1000.0
+PMEACPE	Pimeloyl-[ACP] methyl ester esterase	0.0	1000.0
+EPMEACPR	Enoylpimeloyl-[ACP] methyl ester reductase	0.0	1000.0
+OPMEACPD	3-Oxo-pimeloyl-[ACP] methyl ester dehydratase	0.0	1000.0
+OPMEACPR	3-Oxo-pimeloyl-[ACP] methyl ester reductase	0.0	1000.0
+OPMEACPS	3-Oxo-pimeloyl-[ACP] methyl ester synthase	0.0	1000.0
+EGMEACPR	Enoylglutaryl-[ACP] methyl ester reductase	0.0	1000.0
+OGMEACPD	3-Oxo-glutaryl-[ACP] methyl ester dehydratase	0.0	1000.0
+OGMEACPR	3-Oxo-glutaryl-[ACP] methyl ester reductase	0.0	1000.0
+OGMEACPS	3-Oxo-glutaryl-[ACP] methyl ester synthase	0.0	1000.0
+MALCOAMT	Malonyl-CoA methyltransferase	0.0	1000.0
+GTPCI	GTP cyclohydrolase I	0.0	1000.0
+AKP1	Alkaline phosphatase  Dihydroneopterin	0.0	1000.0
+DHNPA2r	Dihydroneopterin aldolase reversible	-1000.0	1000.0
+GTPCII	GTP cyclohydrolase II	-1000.0	1000.0
+HPPK2	6-hydroxymethyl-dihydropterin pyrophosphokinase	0.0	1000.0
+DHFS	Dihydrofolate synthase	0.0	1000.0
+DHFR	Dihydrofolate reductase	-1000.0	1000.0
+DHFOR	Dihydrofolate:NAD+ oxidoreductase	0.0	1000.0
+THFOR1	5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase	0.0	1000.0
+THFOR2	5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase	0.0	1000.0
+DHPS2	Dihydropteroate synthase	0.0	1000.0
+THFGLUS	TetrahydrofolateL glutamate gamma ligase  ADP forming	-1000.0	1000.0
+FTHFLi	Formate-tetrahydrofolate ligase	0.0	1000.0
+MTHFC	Methenyltetrahydrofolate cyclohydrolase	-1000.0	1000.0
+MTHFD	Methylenetetrahydrofolate dehydrogenase (NADP)	-1000.0	1000.0
+MTHFR3	5 10 methylenetetrahydrofolatereductase  NADPH	0.0	1000.0
+FTHFCL	5 formethyltetrahydrofolate cyclo ligase	-1000.0	1000.0
+FTHFD	Formyltetrahydrofolate deformylase	0.0	1000.0
+TRDR	Thioredoxin reductase (NADPH)	0.0	1000.0
+PTHPS	6-pyruvoyltetrahydropterin synthase	-1000.0	1000.0
+r0673	6-Lactoyl-5,6,7,8-tetrahydropterin:NADP+ 2-oxidoreductase Folate biosynthesis EC:1.1.1.220	-1000.0	1000.0
+r0402	Tetrahydrobiopterin:NADP+ oxidoreductase Folate biosynthesis EC:1.1.1.153	-1000.0	1000.0
+r0398	NADPH:6,7-dihydropteridine oxidoreductase Folate biosynthesis EC:1.5.1.34	-1000.0	1000.0
+GLUTRR	Glutamyl-tRNA reductase	0.0	1000.0
+G1SAT	Glutamate-1-semialdehyde aminotransferase	-1000.0	1000.0
+PPBNGS	Porphobilinogen synthase	0.0	1000.0
+HMBS	Hydroxymethylbilane synthase	0.0	1000.0
+UPP3S	Uroporphyrinogen-III synthase	0.0	1000.0
+UPPDC1	Uroporphyrinogen decarboxylase (uroporphyrinogen III)	0.0	1000.0
+CPPPGO2	Oxygen Independent coproporphyrinogen-III oxidase	0.0	1000.0
+PPPGO3	Protoporphyrinogen oxidase (anaerobic)	0.0	1000.0
+PPPGO4	Protoporphyrinogen oxidase (anaerobic, FAD)	-1000.0	1000.0
+FCLT	Ferrochelatase	0.0	1000.0
+BILIRBU	Bilirubin UDP-glucuronosyltransferase	-1000.0	1000.0
+ADCS	4-amino-4-deoxychorismate synthase	0.0	1000.0
+ACOATA	Acetyl-CoA ACP transacylase	-1000.0	1000.0
+MCOATA	Malonyl-CoA-ACP transacylase	-1000.0	1000.0
+KAS15	Beta-ketoacyl-ACP synthase (2)	0.0	1000.0
+3OAR40	3-oxoacyl-[acyl-carrier-protein] reductase (n-C4:0)	-1000.0	1000.0
+3HAD40	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C4:0)	0.0	1000.0
+EAR40x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C4:0)	0.0	1000.0
+EAR40y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C4:0)	0.0	1000.0
+3OAS60	3-oxoacyl-[acyl-carrier-protein] synthase (n-C6:0)	0.0	1000.0
+3OAR60	3-oxoacyl-[acyl-carrier-protein] reductase (n-C6:0)	-1000.0	1000.0
+3HAD60	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)	0.0	1000.0
+EAR60y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C6:0)	0.0	1000.0
+EAR60x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C6:0)	0.0	1000.0
+3OAS80	3-oxoacyl-[acyl-carrier-protein] synthase (n-C8:0)	0.0	1000.0
+3OAR80	3-oxoacyl-[acyl-carrier-protein] reductase (n-C8:0)	-1000.0	1000.0
+3HAD80	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C8:0)	0.0	1000.0
+EAR80y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C8:0)	0.0	1000.0
+EAR80x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0)	0.0	1000.0
+3OAS100	3-oxoacyl-[acyl-carrier-protein] synthase (n-C10:0)	0.0	1000.0
+3OAR100	3-oxoacyl-[acyl-carrier-protein] reductase (n-C10:0)	-1000.0	1000.0
+3HAD100	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C10:0)	0.0	1000.0
+EAR100y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)	0.0	1000.0
+EAR100x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C10:0)	0.0	1000.0
+3OAS120	3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:0)	0.0	1000.0
+3OAR120	3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:0)	-1000.0	1000.0
+3HAD120	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:0)	0.0	1000.0
+EAR120x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:0)	0.0	1000.0
+EAR120y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0)	0.0	1000.0
+3OAS140	3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:0)	0.0	1000.0
+3OAR140	3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:0)	-1000.0	1000.0
+3HAD140	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)	0.0	1000.0
+EAR140y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:0)	0.0	1000.0
+EAR140x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:0)	0.0	1000.0
+3OAS160	3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:0)	0.0	1000.0
+3OAR160	3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:0)	-1000.0	1000.0
+3HAD160	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:0)	0.0	1000.0
+EAR160y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:0)	0.0	1000.0
+EAR160x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)	0.0	1000.0
+3OAS180	3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:0)	0.0	1000.0
+3OAR180	3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:0)	-1000.0	1000.0
+3HAD180	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)	0.0	1000.0
+EAR180y	Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:0)	0.0	1000.0
+EAR180x	Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0)	0.0	1000.0
+FA140ACPHi	Fatty-acyl-ACP hydrolase	0.0	1000.0
+FA160ACPHi	Fatty-acyl-ACP hydrolase	0.0	1000.0
+FA180ACPH	Fatty acyl ACP hydrolase	0.0	1000.0
+FACOAL160	Fatty acid  CoA ligase  hexadecanoate	0.0	1000.0
+FACOAL180	Fatty acid  CoA ligase  octadecanoate	0.0	1000.0
+FASC200ACP	Fatty acid biosynthesis (n-C20:0)	-1000.0	1000.0
+FACOAL200	Fatty-acid--CoA ligase	0.0	1000.0
+DHDDS	Dehydrodolichyl diphosphate synthase 1	-1000.0	1000.0
+DEDOLP1	Dehydrodolichol diphosphate phosphatase (CHO)	-1000.0	1000.0
+DEDOLP2	Dehydrodolichol phosphate phosphatase (CHO)	-1000.0	1000.0
+DEDOLR	Dehydrodolichol reductase (CHO)	-1000.0	1000.0
+DOLK	Dolichol kinase	-1000.0	1000.0
+DOLDPP	Dolichyl-diphosphate phosphohydrolase	-1000.0	1000.0
+SQLS	Squalene synthase	0.0	1000.0
+GLYALDDr	D-Glyceraldehyde dehydrogenase	0.0	1000.0
+ALCD19	Alcohol dehydrogenase (glycerol)	-1000.0	1000.0
+SGPL13	Sphingosine 1-phosphate aldolase	-1000.0	1000.0
+SPHK21c	Sphingosine kinase	0.0	1000.0
+SBPP3	Sphingosine 1-phosphate phosphatase	-1000.0	1000.0
+CERDA18_c	Dihydroceramide deacylase (sphinganine/stearate forming)	-1000.0	0.0
+DHCERD4DS_c	Dihydroceramide delta 4 desaturase (Sphingosine:n-18C forming)	-1000.0	1000.0
+CRMDA18_c	Ceramide deacylase (sphingosine/stearate forming)	0.0	0.0
+G3PCT	Glycerol-3-phosphate cytidylyltransferase	-1000.0	1000.0
+G3PAT160	Glycerol-3-phosphate acyltransferase (C16:0)	0.0	1000.0
+G3PAT160_1	Glycerol-3-phosphate: acyl-coa acyltransferase (16:0)	0.0	1000.0
+AGPAT160	1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)	0.0	1000.0
+DASYN160	CDP-diacylglycerol synthetase (n-C16:0)	0.0	1000.0
+PGSA160	Phosphatidylglycerol synthase (n-C16:0)	0.0	1000.0
+PGPP160	Phosphatidylglycerol phosphate phosphatase (n-C16:0)	0.0	1000.0
+CLPNS160	Cardiolipin synthase (n-C16:0)	-1000.0	1000.0
+FACOAL140	Fatty acid  CoA ligase  tetradecanoate	0.0	1000.0
+G3PAT180	Glycerol-3-phosphate acyltransferase (C18:0)	0.0	1000.0
+G3PAT180_1	Glycerol-3-phosphate: acyl-coa acyltransferase (18:0)	0.0	1000.0
+AGPAT180	1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0)	0.0	1000.0
+DASYN180	CDP-diacylglycerol synthetase (n-C18:0)	0.0	1000.0
+PGSA180	Phosphatidylglycerol synthase (n-C18:0)	0.0	1000.0
+PGPP180	Phosphatidylglycerol phosphate phosphatase (n-C18:0)	0.0	1000.0
+CLPNS180	Cardiolipin synthase (n-C18:0)	-1000.0	1000.0
+G3PAT140	Glycerol-3-phosphate acyltransferase (C14:0)	0.0	1000.0
+G3PAT140_c	Glycerol-3-phosphate: acyl-coa acyltransferase C14:0	0.0	1000.0
+AGPAT140	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)	0.0	1000.0
+DASYN140	CDP-diacylglycerol synthetase (n-C14:0)	0.0	1000.0
+PGSA140	Phosphatidylglycerol synthase (n-C14:0)	0.0	1000.0
+PGPP140	Phosphatidylglycerol phosphate phosphatase (n-C14:0)	0.0	1000.0
+CLPNS140	Cardiolipin synthase (n-C14:0)	-1000.0	1000.0
+DAGK160	Diacylglycerol kinase (n-C16:0)	0.0	1000.0
+PAPA160	Phosphatidate phosphatase (n-C16:0)	0.0	1000.0
+DAGK140	Diacylglycerol kinase (n-C14:0)	0.0	1000.0
+PAPA140	Phosphatidate phosphatase (n-C14:0)	0.0	1000.0
+DAGK180	Diacylglycerol kinase (n-C18:0)	0.0	1000.0
+PAPA180	Phosphatidate phosphatase (n-C18:0)	0.0	1000.0
+ETHAPT_PALM_PALM_c	CDP-ethanolamine: diacylglycerol ethanolamine phosphotransferase (16:0/16:0)	-1000.0	1000.0
+ETHAPT_STC_STC_c	CDP-ethanolamine: diacylglycerol ethanolamine phosphotransferase (18:0/18:0)	-1000.0	1000.0
+ETHAPT_MYRS_MYRS_c	CDP-ethanolamine: diacylglycerol ethanolamine phosphotransferase (14:0/14:0)	-1000.0	1000.0
+LPEAT_PALM_PALM_sn2_c	2-lysophosphatidylethanolamine O-acyl transferase (16:0/16:0)	-1000.0	1000.0
+LPEH160_sn1_c	Lysophosphatidylethanolamine hydrolase (16:0)	-1000.0	1000.0
+LPEAT_STC_STC_sn2_c	2-lysophosphatidylethanolamine O-acyl transferase (18:0/18:0)	-1000.0	1000.0
+LPLPS1AGPE180	Lysophospholipase (18:0)	-1000.0	1000.0
+LPEAT_MYRS_MYRS_sn2_c	2-lysophosphatidylethanolamine O-acyl transferase (14:0/14:0)	-1000.0	1000.0
+LPEH140_sn1_c	Lysophosphatidylethanolamine hydrolase (14:0)	-1000.0	1000.0
+GPDDA2	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	0.0	1000.0
+r0480	S-Adenosyl-L-methionine:ethanolamine-phosphate N-methyltransferase Glycerophospholipid metabolism EC:2.1.1.103	-1000.0	1000.0
+r0788	S-Adenosyl-L-methionine:methylethanolamine phosphate N-methyltransferase Glycerophospholipid metabolism EC:2.1.1.103	-1000.0	1000.0
+r0789	S-Adenosyl-L-methionine:phosphodimethylethanolamine N-methyltransferase Glycerophospholipid metabolism EC:2.1.1.103	-1000.0	1000.0
+CHLP	Choline phosphate phosphatase	-1000.0	1000.0
+HMR_0641	Acetylcholinesterase	0.0	1000.0
+LPCH180_sn1_c	Lysophosphatidylcholine hydrolase (18:0)	-1000.0	1000.0
+LPCAT_STC_STC_sn2_c	2-lysophosphatidylcholine O-acyl transferase (18:0/18:0)	-1000.0	1000.0
+PLDPC_STC_STC_c	Phospholipase D (18:0/18:0) (phosphatidylcholine)	0.0	1000.0
+PLDPE_STC_STC_c	Phospholipase D (18:0/18:0) (phosphatidylethanolamine)	-1000.0	1000.0
+PSD180	Phosphatidylserine decarboxylase (n-C18:0)	0.0	1000.0
+LPCH140_sn1_c	Lysophosphatidylcholine hydrolase (14:0)	-1000.0	1000.0
+LPCAT_MYRS_MYRS_sn2_c	2-lysophosphatidylcholine O-acyl transferase (14:0/14:0)	-1000.0	1000.0
+PLDPC_MYRS_MYRS_c	Phospholipase D (14:0/14:0) (phosphatidylcholine)	-1000.0	1000.0
+PLDPE_MYRS_MYRS_c	Phospholipase D (14:0/14:0) (phosphatidylethanolamine)	0.0	1000.0
+PSD140	Phosphatidylserine decarboxylase (n-C14:0)	0.0	1000.0
+LPCH160_sn1_c	Lysophosphatidylcholine hydrolase (16:0)	-1000.0	1000.0
+LPCAT_PALM_PALM_sn2_c	2-lysophosphatidylcholine O-acyl transferase (16:0/16:0)	-1000.0	1000.0
+PLDPC_PALM_PALM_c	Phospholipase D (16:0/16:0) (phosphatidylcholine)	-1000.0	1000.0
+PLDPE_PALM_PALM_c	Phospholipase D (16:0/16:0) (phosphatidylethanolamine)	0.0	1000.0
+PSD160	Phosphatidylserine decarboxylase (n-C16:0)	0.0	1000.0
+TAGAH_PALM_PALM_PALM_c	Triacylglycerol acylhydrolase (16:0/16:0/16:0)	-1000.0	0.0
+ACOADAGAT_PALM_PALM_PALM_c	Acyl-CoA: diacylglycerol acyltransferase (16:0/16:0/16:0)	-1000.0	0.0
+DAGAH_PALM_PALM_c	Diacylglycerol acylhydrolase (16:0/16:0)	-1000.0	1000.0
+MAGAH160	1-acylglycerol acylhydrolase (16:0)	-1000.0	0.0
+H2ht	H2 hydrogenosome transporter (diffusion)	-1000.0	1000.0
+CO2ht	CO2 hydrogenosome transporter (diffusion)	-1000.0	1000.0
+PIht	Phosphate hydrogenosome symporter	-1000.0	1000.0
+H2Oht	H2O hydrogenosome transporter (diffusion)	-1000.0	1000.0
+ADPATPht	ADP/ATP translocase	-1000.0	1000.0
+SUCCht1	Succinate hydrogenosome transporter	-1000.0	0.0
+SUCCht2	Succinate hydrogenosome transporter	-1000.0	0.0
+MALht	Malate hydrogenosome antiporter	0.0	1000.0
+FORht2	Formate hydrogenosome symport	-1000.0	0.0
+ACht2	Acetate hydrogenosome symport	-1000.0	0.0
+PYRht	Pyruvate hydrogenosome symport	-1000.0	1000.0
+PFLh	Pyruvate formate lyase	0.0	1000.0
+PFOh	Pyruvate ferredoxin oxidoreductase	0.0	1000.0
+HYDhfe	Ferredoxin Hydrogenase	0.0	1000.0
+CMPL1h	Complex 1 hydrogenosome	0.0	0.0
+CMPL2h	Complex 2 hydrogenosome	0.0	0.0
+FUMh	Fumarase hydrogenosome	0.0	0.0
+HYDhbi	Bifurcating Hydrogenase	0.0	0.0
+ATPShydr	ATP synthase hydrogenosome	0.0	0.0
+SUCCOAh	Succinyl-CoA synthase	-1000.0	1000.0
+SUCOAACTh	Succinyl-CoA:acetate CoA transferase	-1000.0	1000.0
+MEhy	Malic enzyme (NAD) hydrogenosome	0.0	1000.0
+MEhx	Malic enzyme (NADP) hydrogenosome	0.0	1000.0
+MDHh	Malate dehydrogenase hydrogenosome	-1000.0	1000.0
+AMTh	Aspartate aminotransferase hydrogenosome	-1000.0	1000.0
+MAKht	Malate, alpha-ketoglutarate antiporter	-1000.0	1000.0
+AGht	Aspartate, glutamate antiporter	-1000.0	1000.0
+HYDh2	Hydrogenase hydrogenosome	0.0	1000.0
+HYDh3	Hydrogenase hydrogenosome	0.0	1000.0
+DPCOAxt	3'-dephospho-CoA peroxisome transporter	0.0	1000.0
+ABCDxt	Hexadecenoyl-CoA peroxisome ABCD transporter	0.0	1000.0
+PSERLxt	3P-L-serine peroxisome transporter	0.0	1000.0
+H2Oxt	H2O peroxisome transporter (diffusion)	-1000.0	1000.0
+CO2xt	CO2 peroxisome transporter (diffusion)	-1000.0	1000.0
+Hxt	Proton peroxisome transporter (diffusion)	-1000.0	1000.0
+ATPADPxt	ATP/ADP peroxisome antiporter	-1000.0	1000.0
+GTPGDPxt	GTP/GDP peroxisome antiporter	-1000.0	1000.0
+FADxt	FAD peroxisome transport	-1000.0	1000.0
+COAxt	CoA peroxisome transporter	-1000.0	1000.0
+MOAAxt	Malate/OAA peroxisome antitransporter	-1000.0	1000.0
+AKGxt	Alpha-ketoglutarate peroxisome transporter	-1000.0	1000.0
+CITxt	Citrate peroxisome transporter	-1000.0	1000.0
+3PGxt	3-Phospho-D-glycerate peroxisome transporter	-1000.0	1000.0
+PEPxt	Phosphoenolpyruvate peroxisome transporter	-1000.0	1000.0
+SUCCxt	Succinate peroxisome transporter	-1000.0	1000.0
+FUMxt	Fumarate peroxisome transporter	-1000.0	1000.0
+SACCRPxt	Saccharopine peroxisome transporter	-1000.0	1000.0
+LYSLxt	Lysine peroxisome transporter	-1000.0	1000.0
+ASPxt	Aspartate/glutamate peroxisome antitransporter	-1000.0	1000.0
+FAOXx	Beta oxidation peroxisome	0.0	1000.0
+DPCKx	Generation of CoA for beta-oxidation peroxisome	0.0	1000.0
+CSx	Citrate synthase peroxisome	0.0	1000.0
+OSMx	Succinate to Fumarate conversion peroxisome	0.0	1000.0
+PGDHx	Phosphoglycerate dehydrogenase peroxisome	0.0	1000.0
+ASTx	Aspartate aminotransferase peroxisome	-1000.0	1000.0
+MDHx	Malate Dehydrogenase peroxisome	-1000.0	1000.0
+SADHx	Succinate to Fumarate conversion peroxisome	-1000.0	1000.0
+PEPCKx	Phosphoenolpyruvate carboxykinase peroxisome	-1000.0	1000.0
+PSATx	Phosphoserine aminotransferase peroxisome	-1000.0	1000.0
+EX_xylan_e	Xylan exchange	0.0	0.0
+r_xylanase	Xylanase	0.0	1000.0
+r_dextrinase	Dextrin rxn	0.0	1000.0
+r_gapd	Glyceraldehyde-3-phosphate dehydrogenase (NADP+)	0.0	1000.0
+r_HAH	Homoaconitate hydratase	-1000.0	1000.0
+r_HICITD	Homoisocitrate dehydrogenase	-1000.0	1000.0
+r_MetSmethtrans	Methionine S-methyltransferase	-1000.0	1000.0
+r_2abut2akgt	2-aminobutanoate:2-oxoglutarate aminotransferase	-1000.0	1000.0
+r_glutabutl	L-glutamate:2-aminobutanoate gamma-ligase (ADP-forming)	-1000.0	1000.0
+r_glglutglyl	gamma-L-glutamyl-L-2-aminobutyrate:glycine ligase (ADP-forming)	-1000.0	1000.0
+EX_cellulose_e	Cellulose exchange	0.0	0.0
+EX_hemicellulose_e	Hemicellulose exchange	0.0	0.0
+r_cellulase	Cellulose to cellobiose lumped reaction EXTERNAL	-1000.0	1000.0
+r_hemicellulase	Hemicellulose to xylose lumped reaction EXTERNAL	-1000.0	1000.0
+r_lacd1	D-Lactate dehydrogenase using heme	0.0	1000.0
+r_lacd2	L-lactate dehydrogenase using heme	0.0	1000.0
+r_R06522	3-sn-phosphatidate phosphohydrolase	-1000.0	1000.0
+r_02541	Sphingomyelin phosphodiesterase	-1000.0	1000.0
+r_R02543	Acyl-CoA:sphingosine N-acyltransferase	-1000.0	1000.0
+r_R01498	Glucosylceramidase	-1000.0	1000.0
+r_R01100	Beta-galactosidase	-1000.0	1000.0
+r_R01500	Beta-galactosidase	-1000.0	1000.0
+r_R04019	Alpha-galactosidase	-1000.0	1000.0
+R_DM_4mhetz_c	4mhetz_c supply	-1000.0	0.0
+R_SINK_dad_5_c	dad_5_c sink	0.0	1000.0
+R_SINK_amob_c	amob_c sink	0.0	1000.0
+R_DM_4ahmmp_c	4ahmmp_c supply	-1000.0	0.0
+Biomass	Biomass objective function	0.0	1000.0
+NGAM	ATPM	2.27	2.27
+HDECtex	Hexadecanoic acid transporter (extracellular to cytosol)	0.0	1000.0
+EX_hdec_e	Hexadecanoic acid exchange	-1000.0	1000.0
+PALMCL	Palmitate CoA ligase	0.0	1000.0

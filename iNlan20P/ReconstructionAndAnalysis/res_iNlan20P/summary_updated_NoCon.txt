@@ -1,0 +1,30 @@
+Objective
+=========
+1.0 Biomass = 0.050500778915535734
+
+Uptake
+------
+Metabolite      Reaction     Flux  C-Number C-Flux
+    4abz_e     EX_4abz_e 5.05E-06         7  0.00%
+   cellb_e    EX_cellb_e     0.75        12 99.55%
+  cys__L_e   EX_cys__L_e  0.01344         3  0.45%
+     h2o_e      EX_h2o_e    1.908         0  0.00%
+    hdec_e     EX_hdec_e  0.01303         0  0.00%
+     nh4_e      EX_nh4_e    0.378         0  0.00%
+   pheme_e    EX_pheme_e 5.05E-06        34  0.00%
+      pi_e       EX_pi_e   0.0746         0  0.00%
+  4ahmmp_c R_DM_4ahmmp_c 5.05E-06         6  0.00%
+  4mhetz_c R_DM_4mhetz_c 5.05E-06         6  0.00%
+
+Secretion
+---------
+Metabolite       Reaction      Flux  C-Number C-Flux
+      ac_e        EX_ac_e        -2         2 53.74%
+    etoh_e      EX_etoh_e   -0.4273         2 11.48%
+     for_e       EX_for_e     -2.41         1 32.38%
+      h2_e        EX_h2_e      -1.6         0  0.00%
+       h_e         EX_h_e    -4.794         0  0.00%
+    meoh_e      EX_meoh_e -5.05E-06         1  0.00%
+    succ_e      EX_succ_e  -0.04453         4  2.39%
+    amob_c  R_SINK_amob_c -5.05E-06        15  0.00%
+   dad_5_c R_SINK_dad_5_c -5.05E-06        10  0.00%
